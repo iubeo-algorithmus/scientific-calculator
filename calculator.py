@@ -30,3 +30,9 @@ class Calculator:
     def divide(self, num1, num2) -> int:
         self.last_number = num1 / num2
         return self.last_number
+
+    def power_of_to(self, num1, num2) -> float:
+        return
+
+    def square_root(self, num) -> float:
+        return
