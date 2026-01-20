@@ -1,6 +1,6 @@
-from calculator import Scientific_Calculator
+from calculator import ScientificCalculator
 
-calc = Scientific_Calculator(0)
+calc = ScientificCalculator(0)
 
 num1 = 36
 num2 = 2
