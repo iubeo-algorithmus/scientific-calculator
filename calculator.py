@@ -1,4 +1,4 @@
-class Scientific_Calculator:
+class ScientificCalculator:
     def __init__(self, current_number):
         self.last_result = current_number
 
@@ -28,6 +28,7 @@ class Scientific_Calculator:
             if multiple * multiple == num:
                 self.last_result = multiple
                 return self.last_result
+        return num
 
     def variable_root(self, num, root):
         pass
@@ -42,6 +43,6 @@ class Scientific_Calculator:
         self.last_result = result
         return self.last_result
 
-    #
+    # Absolute value
 
     # Trigonometrics
