@@ -1,4 +1,9 @@
 # Changelog
+2026.01.27
+- Shifted the floor and ceiling functions around
+- Added comments to calculator.py
+- Added get_pi
+
 2026.01.26
 - Added new value-rounding and trigonomics functions
 - Changed function arguments to be more explicit compared to the previously-written "num", "n1" and "n2"
